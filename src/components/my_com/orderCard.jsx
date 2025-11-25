@@ -1,5 +1,4 @@
 import React, { useContext, useState } from 'react'
-import img1 from '../../assets/image1.avif'
 import { Trash } from 'lucide-react'
 import { CartContext } from '@/context/cartContext'
 import { toast } from 'react-toastify'

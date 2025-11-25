@@ -1,4 +1,3 @@
-import { food_items } from '@/lib/food'
 import React, { useContext } from 'react'
 import { LeafyGreen } from 'lucide-react'
 import { HopOff } from 'lucide-react'
